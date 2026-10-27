@@ -1,5 +1,5 @@
 # Data Preprocessing & Cleansing
-An end-to-end, production-ready Python showcase notebook demonstrating advanced data engineering, feature engineering, and data cleansing techniques designed to transform raw, volatile datasets into high-fidelity inputs for machine learning.
+An end-to-end, production-ready Python showcase notebook demonstrating advanced data engineering and data cleansing techniques designed to transform raw, volatile datasets into high-fidelity inputs for machine learning.
 
 ##  Overview & Objectives
 Real-world data is inherently messy, corrupted, and poorly formatted. This repository shows data preprocessing methodologies. It implements logic blocks to tackle real-world anomalies across diverse data streams—including numerical logs, structural metrics, geospatial configurations, time-series intervals, and natural language properties.
@@ -23,7 +23,7 @@ The notebook is built to comply with PEP 8 style standards and operates on produ
 ---
 
 ##  Dataset Source
-If the data is not available in Data_103 folder here, it is due to the lager size of the data and the data can be access from the official Kaggle Data Cleaning course website  
+If the data is not available in Data_103 folder here, it is due to the large size of the data and the data can be access from the official Kaggle Data Cleaning course website  
 https://kaggle.com/learn/data-cleaning/data
 
 ---
